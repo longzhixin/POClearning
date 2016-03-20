@@ -245,3 +245,4 @@ poc_zombie_gui.run_gui(Apocalypse(30, 40))
 #obj.move_humans(dist) 
 #obj = Apocalypse(3, 3, [(0, 0), (1, 0), (1, 1), (1, 2)], [(0, 2)], [(0, 1)])
 #print obj.compute_distance_field(HUMAN)
+#Creating a new branch is quick AND simple.
