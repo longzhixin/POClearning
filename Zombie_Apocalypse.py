@@ -1,6 +1,8 @@
 """
 Student portion of Zombie Apocalypse mini-project
 """
+# @author  ouyangxinrong
+# @email  ouyangxinrong@gmail.com
 
 import random
 import poc_grid
