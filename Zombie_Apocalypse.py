@@ -3,6 +3,8 @@ Student portion of Zombie Apocalypse mini-project
 """
 # @author  ouyangxinrong
 # @email  ouyangxinrong@gmail.com
+# @ I am small bird
+# @ I like play football game
 
 import random
 import poc_grid
